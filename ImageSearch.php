@@ -1,7 +1,5 @@
 <?php
 
-namespace WSL;
-
 class ImageSearch
 {
     private $flickrApiKey;
