@@ -50,6 +50,3 @@ class ImageSearch
         return $urls;
     }
 }
-
-// $flickr = new Flickr();
-// $flickr->getAllImages();
